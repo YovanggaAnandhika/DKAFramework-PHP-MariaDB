@@ -1,5 +1,6 @@
 {
     "name": "dkaframework/database",
+    "version" : "1.0.0-dev",
     "description": "The Multifunction MariaDB Connector with CRUD Composer for PHP",
     "type": "library",
     "license": "MIT",
