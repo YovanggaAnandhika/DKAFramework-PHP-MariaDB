@@ -89,7 +89,7 @@ Us For More Information.
 
 Simple Used Module
 
-```
+````injectablephp
 <?php
 
    /** Autoload from composer **/
@@ -105,11 +105,11 @@ Simple Used Module
    $Read = CRUD::Read($Connector, <db_name>);
    /** example print execution command **/
    echo $read;
-        
-        .. another code ...
-   })();
-    
-```
+   
+   //.. another code ...
+
+   ?>
+````
 
 Read More About [How To Use](https://github.com/YovanggaAnandhika/Server/blob/master/USAGE.md) For How To Details Use.
 
