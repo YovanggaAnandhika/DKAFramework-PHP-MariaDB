@@ -89,7 +89,7 @@ Us For More Information.
 
 Simple Used Module
 
-````injectablephp
+````php
 <?php
 
    /** Autoload from composer **/
