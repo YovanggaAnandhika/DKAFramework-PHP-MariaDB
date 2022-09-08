@@ -1,0 +1,19 @@
+{
+    "name": "dkaframework/database",
+    "description": "The Multifunction MariaDB Connector with CRUD Composer for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "dkaframework\\database\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yovangga Anandhika",
+            "email": "dhikaprivate@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
